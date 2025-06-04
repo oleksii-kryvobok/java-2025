@@ -1,0 +1,6 @@
+com\calculator\entity\Sessions.class
+com\calculator\entity\SavedVariables.class
+com\calculator\Main.class
+com\calculator\entity\Calculations.class
+com\calculator\entity\SavedFormulas.class
+com\calculator\entity\User.class
